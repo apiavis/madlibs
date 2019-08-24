@@ -1,0 +1,60 @@
+input {
+  margin: 0% 5% 5% 5%;
+  border: 1px black solid;
+  font-size: large;
+  text-align:center;
+  flex-basis:100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+select {
+  text-align: center;
+  margin-right: 1%;
+  font-size: large;
+}
+
+.dropdownContainer {
+  text-align: center;
+}
+
+.dropdownContainer button {
+  padding: 1%;
+}
+
+#madlibForm div {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis:33%;
+}
+
+#madlibFormContainer button {
+  flex-basis: 100%;
+  margin: 1% 45% 0% 45%;
+  padding: 1% 1%;
+  text-align: center;
+}
+
+#madlibFormContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 1% 20%;
+  align-items: center;
+}
+
+#madlibForm {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+#madlibForm p {
+  flex-basis:100%;
+  text-align: center;
+}
+
+#madlibDisplayContainer {
+  text-align: center;
+}
